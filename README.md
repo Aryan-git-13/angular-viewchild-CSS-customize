@@ -1,3 +1,4 @@
-# angular-viewchild-static-true-false-hq2xv6
+# angular-viewchild-CSS change
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-viewchild-static-true-false-hq2xv6)
+Hi all, This is an example repository showing how to manipulate CSS of elements using ViewChild property of template reference in Angular.
+Hope you will understand How it works
